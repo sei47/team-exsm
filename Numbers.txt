@@ -4,8 +4,6 @@
 3 コンフリクトするのは怖い hogeiseki
 5 hoge11iseki
 6 hoge22iseki
-7 hoge33iseki
-9 hoge55iseki
 8 hoge44iseki
 10 hoge999iseki
 11 hoge77iseki
