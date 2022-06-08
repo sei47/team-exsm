@@ -3,6 +3,9 @@
 4 hoge
 <<<<<<< HEAD
 3 コンフリクトするのは怖い hoge
+=======
+3 コンフリクトするのは怖い yes
+>>>>>>> master
 5 hoge11
 6 hoge22
 7 hoge33
