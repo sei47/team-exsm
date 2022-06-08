@@ -1,0 +1,29 @@
+1 今日はgit道場に参加してる  hoge
+2 どんな編集をしたらいいかわからないが hoge
+4 hoge
+3 コンフリクトするのは怖い hoge
+5 hoge11
+6 hoge22
+7 hoge33
+9 hoge55
+8 hoge44
+10 hoge999
+11 hoge77　今日のワークで
+12 hoge88　みんなと協力して
+13 hoge66　教えて頂いたコマンドをもとに
+14 hoge55　コンフリクト解消していきます
+15 hoge11　編集しました。
+1 今日はgit道場に参加してる  hogeiseki
+2 どんな編集をしたらいいかわからないが hogeiseki
+4 hogeioseki
+3 コンフリクトするのは怖い hogeiseki
+5 hoge11iseki
+6 hoge22iseki
+8 hoge44iseki
+10 hoge999iseki
+11 hoge77iseki
+12 hoge88iseki
+13 hoge66iseki
+14 hoge55iseki
+15 hoge11iseki
+
