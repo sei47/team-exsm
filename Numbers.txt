@@ -5,7 +5,7 @@
 5 hoge11isek
 6 hoge22isek
 8 hoge44isek
-10 hoge999iseki
+10 hoge999isek
 11 hoge77iseki
 12 hoge88iseki
 13 hoge66iseki
